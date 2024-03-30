@@ -2,7 +2,9 @@
 
 The IP Address PCF component is designed to enforce IP address restrictions within your Canvas apps. This component allows on-site employees to restrict access based on IP addresses, enabling secure authentication using their work email.
 
-![Screenshot](./assets/screenshot.png)
+![image](https://github.com/Ahmadriazz/GetIPAddress/assets/148037571/7c6ff6a7-5328-4cb9-9d25-9152f333111d)
+
+
 
 ## Author
 
