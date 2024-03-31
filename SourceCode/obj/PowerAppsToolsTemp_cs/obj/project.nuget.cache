@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "15suTuhtzYo3AnpaQ+r/K0OKU0YpxFq3xvdjD8zjXl9ssXdNaP2TRdhKVk3gls0zTiKbwVmhCM0RcCSt0Hylfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MuhammadAhmad\\Desktop\\GetIpAddress\\src\\obj\\PowerAppsToolsTemp_cs\\PowerAppsToolsTemp_cs.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MuhammadAhmad\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\MuhammadAhmad\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\MuhammadAhmad\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.31.2\\microsoft.powerapps.msbuild.pcf.1.31.2.nupkg.sha512",
+    "C:\\Users\\MuhammadAhmad\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.31.2\\microsoft.powerapps.msbuild.solution.1.31.2.nupkg.sha512"
+  ],
+  "logs": []
+}

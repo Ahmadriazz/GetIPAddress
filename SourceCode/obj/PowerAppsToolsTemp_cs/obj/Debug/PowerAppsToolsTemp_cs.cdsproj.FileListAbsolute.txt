@@ -1,0 +1,2 @@
+C:\Users\MuhammadAhmad\Desktop\GetIpAddress\src\obj\PowerAppsToolsTemp_cs\obj\Debug\PowerAppsToolsTemp_cs.cdsproj.AssemblyReference.cache
+C:\Users\MuhammadAhmad\Desktop\GetIpAddress\src\obj\PowerAppsToolsTemp_cs\obj\Debug\PowerAppsToolsTemp_cs.cdsproj.CoreCompileInputs.cache

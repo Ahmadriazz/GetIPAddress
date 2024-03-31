@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XvkJYF+uFpLJ91U4dXbbI6mVSGay1TeSH4hw7iE5EBVr6ilMHcCSTqm6G48HgdRxQZzRp0Zaq4azo9sNFWBjoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MuhammadAhmad\\Desktop\\GetIpAddress\\src\\src.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MuhammadAhmad\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\MuhammadAhmad\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\MuhammadAhmad\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.31.2\\microsoft.powerapps.msbuild.pcf.1.31.2.nupkg.sha512"
+  ],
+  "logs": []
+}

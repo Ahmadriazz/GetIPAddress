@@ -1,0 +1,2 @@
+C:\Users\MuhammadAhmad\Desktop\GetIpAddress\src\obj\Debug\src.pcfproj.AssemblyReference.cache
+C:\Users\MuhammadAhmad\Desktop\GetIpAddress\src\obj\Debug\src.pcfproj.CoreCompileInputs.cache

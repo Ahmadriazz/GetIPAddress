@@ -1,0 +1,20 @@
+2024-03-28 16:53:30.984 - Info	
+Packing C:\Users\MuhammadAhmad\Desktop\GetIpAddress\src\obj\PowerAppsToolsTemp_cs\obj\Debug\Metadata to bin\Debug\PowerAppsToolsTemp_cs.zip
+
+2024-03-28 16:53:30.996 - Info	Processing Component: Entities
+2024-03-28 16:53:30.999 - Info	Processing Component: Roles
+2024-03-28 16:53:31.002 - Info	Processing Component: Workflows
+2024-03-28 16:53:31.002 - Info	Processing Component: FieldSecurityProfiles
+2024-03-28 16:53:31.002 - Info	Processing Component: Templates
+2024-03-28 16:53:31.003 - Info	Processing Component: EntityMaps
+2024-03-28 16:53:31.003 - Info	Processing Component: EntityRelationships
+2024-03-28 16:53:31.006 - Info	Processing Component: OrganizationSettings
+2024-03-28 16:53:31.006 - Info	Processing Component: optionsets
+2024-03-28 16:53:31.007 - Info	Processing Component: CustomControls
+2024-03-28 16:53:31.014 - Info	 - GettingIpAddress.IpAddressPCF
+2024-03-28 16:53:31.019 - Info	Processing Component: SolutionPluginAssemblies
+2024-03-28 16:53:31.020 - Info	Processing Component: EntityDataProviders
+2024-03-28 16:53:31.023 - Info	Processing Sharded Component Files
+2024-03-28 16:53:31.050 - Info	
+Unmanaged Pack complete.
+
